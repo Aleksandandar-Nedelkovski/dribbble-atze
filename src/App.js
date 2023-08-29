@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Hello Dribble</h1>
-      <Button label="Hello Dribbble!!!" />
+      <Button label="Hello Dribbble!!! Yay" />
     </div>
   );
 }
